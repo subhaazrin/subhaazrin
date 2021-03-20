@@ -12,7 +12,7 @@ const subha = {
 ```
 
 Feel free to connect with me! :blush: 
-[![Linkedin: subha-azrin](https://img.shields.io/badge/-subha-azrin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subha-azrin/)](https://www.linkedin.com/in/subha-azrin/)
+[![Linkedin: subhaazrin](https://img.shields.io/badge/-subha-azrin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subha-azrin/)](https://www.linkedin.com/in/subha-azrin/)
 <!--
 **subhaazrin/subhaazrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 /*techCommunities: {
