@@ -1,6 +1,8 @@
 <h2> Hi, I'm Subha Azrin! <img src="https://media.giphy.com/media/PnV3Op8rge6yyOo3zD/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" height="170"> 
 
+[![Linkedin: subhaazrin](https://img.shields.io/badge/-subhaazrin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhaazrin/)](https://www.linkedin.com/in/subhaazrin/)
+
 A little bit about me...
 
 ```javascript
