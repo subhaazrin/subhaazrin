@@ -1,5 +1,6 @@
 <h2> Hi, I'm Subha Azrin! <img src="https://media.giphy.com/media/PnV3Op8rge6yyOo3zD/giphy.gif" width="70"></h2>
-
+<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
+A little bit about me...
 ```javascript
 const subha = {
   pronouns: "she" | "her",
