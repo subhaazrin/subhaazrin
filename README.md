@@ -5,16 +5,16 @@ const subha = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Java, C#],
   tools: [React, Node, DialogFlow]
-  /*techCommunities: {
+}
+```
+<!--
+**subhaazrin/subhaazrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/*techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
                       }, 
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript" */
-}
-```
-<!--
-**subhaazrin/subhaazrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
