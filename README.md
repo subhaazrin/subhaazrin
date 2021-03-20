@@ -1,7 +1,7 @@
-<h2> Hi, I'm Subha Azrin! <img src="https://media.giphy.com/media/PnV3Op8rge6yyOo3zD/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Subha Azrin! <img src="https://media.giphy.com/media/PnV3Op8rge6yyOo3zD/giphy.gif" width="70"></h2>
 
 ```javascript
-const thai = {
+const subha = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Java, C#],
   tools: [React, Node, DialogFlow]
