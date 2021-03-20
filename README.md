@@ -11,7 +11,8 @@ const subha = {
 }
 ```
 
-Feel free to connect with me! :blush: [![Linkedin: subhaazrin](https://img.shields.io/badge/-subhaazrin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhaazrin/)](https://www.linkedin.com/in/subhaazrin/)
+Feel free to connect with me! :blush: 
+[![Linkedin: subhaazrin](https://img.shields.io/badge/-subhaazrin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhaazrin/)](https://www.linkedin.com/in/subhaazrin/)
 <!--
 **subhaazrin/subhaazrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 /*techCommunities: {
