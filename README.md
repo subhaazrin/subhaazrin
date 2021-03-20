@@ -1,4 +1,4 @@
-<h2> Hi, I'm Subha Azrin! <img src="https://media.giphy.com/media/3cmr6sULq9tFC/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Subha Azrin! <img src="https://media.giphy.com/media/3cmr6sULq9tFC/giphy.gif" width="30"></h2>
 
 
 <!--
