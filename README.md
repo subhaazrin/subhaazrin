@@ -6,7 +6,7 @@ A little bit about me...
 ```javascript
 const subha = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python, Java, C#]
+  code: [Javascript, HTML, CSS, Python, Java, C#],
   tools: [React, Node, DialogFlow, AndroidStudio]
 }
 ```
