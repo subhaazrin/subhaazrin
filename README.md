@@ -6,8 +6,8 @@ A little bit about me...
 ```javascript
 const subha = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python, Java, C#, C++],
-  tools: [React Native, Node, DialogFlow, AndroidStudio, Figma]
+  code: [Python, C++, Scala, Javascript, HTML, CSS, Java, C#, Apache Spark],
+  tools: [Microsoft Azure, Kubernetes, Docker, React Native, Google Cloud, AndroidStudio, Figma]
 }
 ```
 ### Stats
