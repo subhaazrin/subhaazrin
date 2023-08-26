@@ -10,11 +10,11 @@ const subha = {
   tools: [Microsoft Azure, Kubernetes, Docker, React Native, Google Cloud, AndroidStudio, Figma]
 }
 ```
-### Stats
+<!--### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhaazrin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhaazrin&hide=ruby&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 Feel free to connect with me! :blush: 
 
 [![Linkedin: subhaazrin](https://img.shields.io/badge/-subhaazrin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subha-azrin-72497a1aa/)](https://www.linkedin.com/in/subha-azrin-72497a1aa/)
