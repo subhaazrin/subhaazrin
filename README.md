@@ -1,13 +1,16 @@
 <h2> Hi, I'm Subha Azrin! <img src="https://media.giphy.com/media/PnV3Op8rge6yyOo3zD/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" height="170"> 
 
-A little bit about me...
+A little bit about me:
+
+Interested in all things software and embedded (firmware) systems.
+Have a large variety of skillset.
 
 ```javascript
 const subha = {
   pronouns: "she" | "her",
-  code: [Python, C++, Javascript, HTML, CSS, Java, C#, SQL],
-  tools: [Microsoft Azure, Kubernetes, Docker, React Native, Google Cloud, AndroidStudio, Figma]
+  code: [Python, C, C++, freeRTOS, Git, Shell Scripting, Javascript, HTML, CSS, Java, C#, SQL, Typescript, VHDL],
+  tools: [Perforce, Quratus, Microsoft Azure, Altium Designer, STM32 Cube, Kubernetes, Docker, React Native, Google Cloud, AndroidStudio, Figma]
 }
 ```
 <!--### Stats
